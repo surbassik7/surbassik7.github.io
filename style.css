@@ -16,6 +16,16 @@ nav {
   border-bottom: 3px solid black;
 }
 
+.nav-buttons {
+  height: 80%;
+  background-color: rgb(219, 219, 219);
+  color: black;
+  margin: 0 1rem;
+  padding: 0.5rem 1rem;
+  border: transparent;
+  border-radius: 10px;
+}
+
 img {
   height: 250px;
   width: 350px;
